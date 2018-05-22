@@ -1,1 +1,2 @@
 # myFirstMavenJavaProject
+666
